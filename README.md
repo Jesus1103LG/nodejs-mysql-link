@@ -1,3 +1,3 @@
 # nodejs-mysql-link
 
-A CRUD web aplication with authentication using Nodejs, MySQL and other JavaScripts technologies.
+Notes App is a Multi Page Application using Nodejs and Mysql. The purpose of this web application is to improve my skils webs.
